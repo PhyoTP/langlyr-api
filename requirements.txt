@@ -1,0 +1,16 @@
+apt-listchanges==4.8
+certifi==2025.1.31
+chardet==5.2.0
+charset-normalizer==3.4.2
+greenlet==3.1.0
+idna==3.10
+msgpack==1.0.3
+packaging==25.0
+pynvim==0.5.2
+python-apt==3.0.0
+python-debian==1.0.1
+python-debianbts==4.1.1
+reportbug==13.2.0
+requests==2.32.3
+urllib3==2.3.0
+wheel==0.46.1
