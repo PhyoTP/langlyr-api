@@ -1,0 +1,2 @@
+# LangLyr API
+API for Japanese learning apps, such as [LangLyr](https://github.com/langlyr), to get accurate meanings for words, taking into account context. Try out the API at `base url:`https://api.langlyr.phyotp.dev/
