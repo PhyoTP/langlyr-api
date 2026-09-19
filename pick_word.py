@@ -20,7 +20,7 @@ def cosine_sim(a, b):
 
 def pick_word(keyword, sentence, defin, model="voyageai/voyage-4-large"):
     if not defin:
-        return [] #generate_translation(keyword, sentence)
+        return None #generate_translation(keyword, sentence)
 
     query = f"{sentence} (word: {keyword})"
     # print("calling model...")
